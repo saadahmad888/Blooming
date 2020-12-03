@@ -211,6 +211,7 @@ padding: 15px;
     z-index: 9;
     padding: 0%!important;
     margin: 0%!important;
+    background-color: #0f55a9;
     
 }
 
@@ -493,129 +494,6 @@ section{
     top: 0px;
     left: 0px;
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-#upper-footer{
-  width: 100%;
-  background-color: #372e49;
-  padding-top: 35px!important;
-  padding-bottom: 20px!important;
-
-}
-.callus{
-    color: #fff;
-}
-.callus h2{
-    font-weight: bold;
-}
-.number{
-    color: #fff;
-    float: right;
-    margin-top: 4%;
-}
-
-
-#footer{
-    background-color: #0b1529;
-    padding-top: 70px;
-    padding-bottom: 65px;
-}
-
-.footer-adrs p{
-    color: #9ba8c0;
-    line-height: 170%;
-    margin-top: 4%;
-}
-.footer-adrs h4{
-    color: #fff;
-    font-weight: bold;
-}
-.footer-quick-link ul li a{
-    color: #9ba8c0;
-    font-size: 16px;
-    line-height: 200%;
-}
-.footer-quick-link h4{
-    color: #fff;
-    font-weight: bold;
-}
-.footer-faq{
-    margin-top: 22%;
-}
-.footer-faq ul li a{
-    color: #9ba8c0;
-    font-size: 16px;
-    line-height: 200%;
-}
-.payment p{
-    color: #fff;
-    font-weight: bold;
-}
-.copyright{
-    background-color: #091222;
-    padding: 28px 0px;
-}
-.footer-rights p{
-    color: #9ba8c0;
-} */
 .trapezoid1{
     display: none;
     visibility: hidden;
@@ -631,7 +509,7 @@ section{
     }
 .trapezoid1 {
 	border-bottom: 59px solid #bd2433;
-	border-left: 48px solid transparent;
+	border-left: 0px solid transparent;
 	border-right: -6px solid transparent;
 	height: 0;
     width: 280px;
@@ -912,8 +790,8 @@ section{
   .menu_two .logo_part .logo_inner .right .media .media-body h5 {
     color: #000000;
   }  
-.left img{
-    width: 50%;
+.desktop-logo img{
+    width: 40%;
 }
 
 
