@@ -117,7 +117,11 @@ p{
 .experties-header h2{
     font-weight: bold;
 }
+#experties{
+    padding-bottom: 70px;
+}
 .expert-box{
+    margin-bottom: 30px;
     padding: 5%;
     border: 1px solid;
     border-color: #c8c9ca4a;
@@ -505,7 +509,7 @@ p{
 .hero-section-title h2{
     font-weight: bold;
 }
-.blog_share_box{
+.two-blogs-row{
     margin-top: 9%;
 }
 .blog_share_box{
