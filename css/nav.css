@@ -1,3 +1,12 @@
+/* --------------------------------------------------------------------------
+    Title: Blooming Air (Air Condition) HTML Template
+    Made by: Ozient Software and Technologies
+    All Rights are Reserved.
+
+    -----------------------------------------------
+        Only Navbar CSS File
+    -----------------------------------------------
+----------------------------------------------------------------------------- */
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 body {
   position: relative;
@@ -19,7 +28,7 @@ a:hover{
     text-decoration: none;
 }
 /* ------------------------------
-:: 3. Header / Navigation Bar
+:: Header / Navigation Bar
 --------------------------------- */
 #header{
     width: 100%;
@@ -102,7 +111,7 @@ padding: 15px;
     margin-top:-15px;
 }
 /* --------------------------
-:: 3. Main Banner Area CSS
+:: Main Banner Area CSS
 -------------------------- */
 #main-banner #carouselExampleIndicators .carousel-inner .carousel-item {
     height: 90vh;
@@ -130,7 +139,7 @@ padding: 15px;
 }
 
 /* --------------
-:: 3. Work Type
+:: Work Type
 ----------------- */
 
 #work-type{
