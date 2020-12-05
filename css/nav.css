@@ -653,7 +653,7 @@ section{
 }
 */
 #special-header2{
-    background-color: #f2f2f2;
+    background-color: #fff;
 }
 .appoint-sec{
     margin-bottom: 4%;
@@ -696,7 +696,7 @@ section{
 /*------------------------------------------------------------------*/
 
 .logo_part {
-    background: #f2f2f2;
+    background: #fff;
     padding: 15px 0px 20px 0px;
     position: relative;
     z-index: 10;
